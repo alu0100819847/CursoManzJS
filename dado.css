@@ -1,0 +1,23 @@
+body{
+  background-color: #0b72a569;
+}
+#dado {
+  background-color: #80808069;
+  border: 2px solid;
+  min-height: 10px;
+  min-width: 10px;
+}
+
+#dado:hover{
+  background-color: red;
+}
+
+.all{
+  margin-top: 50px;
+}
+
+.color {
+  background-color: white;
+  border: 2px solid;
+  border-color: black;
+}
